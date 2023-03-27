@@ -1,0 +1,21 @@
+root {
+    --color-primary: #fb2056;
+    --color-primary-hover: #da1c4b;
+    --color-light-gray: #f5f5f5;
+    --cor-preto-claro: #191919;
+    --color-white: #ffffff;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+
+
+body {
+    font-family: "Montserrat", sans-serif;
+
+}
