@@ -17,5 +17,64 @@ root {
 
 body {
     font-family: "Montserrat", sans-serif;
+    font-size: 18px;
 
 }
+
+p {
+    margin-bottom: 20px;
+
+}
+
+.container {
+    margin: 0 outo;
+    max-width: 1024px;
+}
+
+#divider {
+
+}
+
+.btn {
+
+}
+
+
+/* page header start */
+#page-header {
+    background-color: var(--color-light-black);
+}
+
+#page-header-logo {
+
+}
+
+#page-header-content {
+
+}
+
+/* page header end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
